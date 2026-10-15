@@ -1,36 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-**dakshxndrm/dakshxndrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daksh Mahera
 
-Here are some ideas to get you started:
+### AI/ML • Data Science • RAG Systems • Software Engineering
 
-- 🔭 I’m currently working on ... webdev
-- 🌱 I’m currently learning ... development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I build and evaluate AI systems — from retrieval-augmented generation and knowledge graphs to machine-learning applications — with a focus on reproducible experiments and practical engineering.
 
-### 📊 GitHub Statistics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=flat&logo=vercel)](https://dakshxmahera.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github)](https://github.com/dakshxndrm?tab=repositories)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshxndrm&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin: 1%;" />
 </div>
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshxndrm&theme=radical" alt="GitHub Streak" style="width: 48%; margin: 1%;" />
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshxndrm&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; margin: 1%;" />
-</div>
+
+---
+
+## What I Work On
+
+- **Retrieval-Augmented Generation:** hybrid retrieval, knowledge graphs, persistent memory, and grounding evaluation.
+- **Machine Learning & Deep Learning:** model reproduction, image classification, evaluation, and efficient inference.
+- **AI Applications:** full-stack products that connect model capabilities to useful user workflows.
+- **Engineering & Deployment:** Python, APIs, containers, Linux, and reproducible project setup.
+
+## Featured Work
+
+### 1. OKF-RAG — Evaluating Knowledge Structure in RAG
+A controlled investigation into whether curated, cross-linked knowledge bundles change hallucination outcomes compared with fixed-size chunks. The project reports a null result for hallucination reduction under the tested setup, while finding a context-token efficiency advantage.
+
+[Research and experiments](https://github.com/dakshxndrm/research-paper-exp)
+
+### 2. Memory-Augmented RAG Chatbot
+A conversational system combining vector retrieval, a knowledge graph, long-term user memory, and tool routing to produce context-aware answers.
+
+[Explore the repository](https://github.com/dakshxndrm/Memory-Augmented-Chatbot-with-Knowledge-Graph-and-Hybrid-RAG-System)
+
+### 3. Lightweight CNN for Breast Ultrasound Research
+A reproduction and independent verification project for a published lightweight CNN approach, with experiments comparing implementation results against reported research results.
+
+[Explore the experiments](https://github.com/dakshxndrm/research-paper-implementation)
+
+### 4. Career Atlas — AI-Powered Career Discovery
+A career assessment application with adaptive questions, personalised career recommendations, learning roadmaps, and progress tracking.
+
+[Source code](https://github.com/dakshxndrm/career-ai) · [Live demo](https://career-ai-220204.vercel.app)
+
+### 5. BHASHA — Language-Aware Historical Voice Assistant
+A voice assistant concept designed for Hindi, English, Hinglish, and regional-language interaction, with answers grounded in a knowledge base.
+
+[Explore the repository](https://github.com/dakshxndrm/language-agonistic-chatbot-RAG)
+
+### 6. Portfolio Deployment with Podman
+A practical deployment project covering containers, Nginx, Linux services, and systemd automation.
+
+[Explore the repository](https://github.com/dakshxndrm/podman-portfolio-container)
+
+---
+
+## Tech Stack
+
+**Languages:** Python · JavaScript · SQL · C/C++  
+**AI & Data:** Machine Learning · Deep Learning · RAG · Embeddings · FAISS · Knowledge Graphs  
+**Backend & Apps:** FastAPI · React · REST APIs  
+**Data & Storage:** PostgreSQL · pgvector · Neo4j · Firebase  
+**Tools & Engineering:** Git · GitHub Actions · Docker · Podman · Linux
+
+> Technologies listed here reflect tools used across projects; individual repository READMEs describe each project's specific stack.
+
+## Research Approach
+
+I value reproducibility over impressive-looking claims. I aim to document the research question, experimental setup, baselines, evaluation metrics, limitations, and next steps — including negative or inconclusive findings.
+
+## Currently Building
+
+- Improving evaluation and observability for RAG systems.
+- Exploring reliable retrieval, memory, and knowledge-graph integration.
+- Turning research prototypes into well-documented, runnable applications.
+
+## Let's Connect
+
+- **Professional profile:** [LinkedIn](https://www.linkedin.com/)
+- **Portfolio:** [dakshxmahera.vercel.app](https://dakshxmahera.vercel.app)
+- **Projects:** [Browse all repositories](https://github.com/dakshxndrm?tab=repositories)
+
+Open to software engineering, AI/ML, data science, and research-oriented collaboration.
+
+---
 
 <div align="center">
 
-### 🏆 GitHub Activity
+<sub>Built with curiosity, careful experiments, and a bias toward shipping useful things.</sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshxndrm&theme=react-dark" alt="Contribution Graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=dakshxndrm&theme=radical" alt="GitHub Trophies" />
 </div>
-
