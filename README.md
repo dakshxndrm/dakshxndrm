@@ -1,12 +1,12 @@
 <div align="center">
 
-# Daksh Mahera
+![Daksh Mahera — AI/ML, Data Science, RAG Systems](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Daksh%20Mahera&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20RAG%20Systems&descAlignY=58&descSize=17)
 
 ### AI/ML • Data Science • RAG Systems • Software Engineering
 
 I build and evaluate AI systems — from retrieval-augmented generation and knowledge graphs to machine-learning applications — with a focus on reproducible experiments and practical engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://in.linkedin.com/in/daksh-mahera)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=flat&logo=vercel)](https://dakshxmahera.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github)](https://github.com/dakshxndrm?tab=repositories)
 
