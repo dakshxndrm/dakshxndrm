@@ -48,10 +48,10 @@ A voice assistant concept designed for Hindi, English, Hinglish, and regional-la
 
 [Explore the repository](https://github.com/dakshxndrm/language-agonistic-chatbot-RAG)
 
-### 6. Portfolio Deployment with Podman
-A practical deployment project covering containers, Nginx, Linux services, and systemd automation.
+### 6. FuelSplit: Web3 based fuel-cost splitting App
+Shared trip fuel consumption calculator and multi-passenger expense-splitting application
 
-[Explore the repository](https://github.com/dakshxndrm/podman-portfolio-container)
+[Explore the repository](https://github.com/dakshxndrm/FUEL_SPLIT)
 
 ---
 
