@@ -21,38 +21,16 @@ I build and evaluate AI systems — from retrieval-augmented generation and know
 - **AI Applications:** full-stack products that connect model capabilities to useful user workflows.
 - **Engineering & Deployment:** Python, APIs, containers, Linux, and reproducible project setup.
 
-## Featured Work
+## Featured Work & Research
 
-### 1. OKF-RAG — Evaluating Knowledge Structure in RAG
-A controlled investigation into whether curated, cross-linked knowledge bundles change hallucination outcomes compared with fixed-size chunks. The project reports a null result for hallucination reduction under the tested setup, while finding a context-token efficiency advantage.
-
-[Research and experiments](https://github.com/dakshxndrm/research-paper-exp)
-
-### 2. Memory-Augmented RAG Chatbot
-A conversational system combining vector retrieval, a knowledge graph, long-term user memory, and tool routing to produce context-aware answers.
-
-[Explore the repository](https://github.com/dakshxndrm/Memory-Augmented-Chatbot-with-Knowledge-Graph-and-Hybrid-RAG-System)
-
-### 3. Lightweight CNN for Breast Ultrasound Research
-A reproduction and independent verification project for a published lightweight CNN approach, with experiments comparing implementation results against reported research results.
-
-[Explore the experiments](https://github.com/dakshxndrm/research-paper-implementation)
-
-### 4. Career Atlas — AI-Powered Career Discovery
-A career assessment application with adaptive questions, personalised career recommendations, learning roadmaps, and progress tracking.
-
-[Source code](https://github.com/dakshxndrm/career-ai) · [Live demo](https://career-ai-220204.vercel.app)
-
-### 5. BHASHA — Language-Aware Historical Voice Assistant
-A voice assistant concept designed for Hindi, English, Hinglish, and regional-language interaction, with answers grounded in a knowledge base.
-
-[Explore the repository](https://github.com/dakshxndrm/language-agonistic-chatbot-RAG)
-
-### 6. FuelSplit: Web3 based fuel-cost splitting App
-Shared trip fuel consumption calculator and multi-passenger expense-splitting application
-
-[Explore the repository](https://github.com/dakshxndrm/FUEL_SPLIT)
-
+| # | Project | Focus Area | Key Technical Outcome | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **OKF-RAG** | RAG Research & Evaluation | Controlled test of curated knowledge bundles vs. fixed chunks: null hallucination-reduction result alongside improved prompt token efficiency | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fdakshxndrm%2Fresearch-paper-exp) |
+| **2** | **Memory-Augmented RAG Chatbot** | AI Systems Engineering | Hybrid vector (`pgvector`) + knowledge graph (`Neo4j`) retrieval with persistent user memory (`PostgreSQL`) and `LangGraph` routing | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fdakshxndrm%2FMemory-Augmented-Chatbot-with-Knowledge-Graph-and-Hybrid-RAG-System) |
+| **3** | **Career Atlas** | Full-Stack AI Product | Adaptive skill assessment, personalized career discovery reports, structured learning roadmaps, and progress tracking | [Source](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fdakshxndrm%2Fcareer-ai) · [Live Demo](https://www.google.com/search?q=https%3A%2F%2Fcareer-ai-220204.vercel.app) |
+| **4** | **Lightweight CNN for Breast Ultrasound** | Deep Learning Reproduction | Independent reproduction comparing an ultra-compact CNN (1,837 parameters; 7.75 KB quantized; ~94% test accuracy) against `ResNet50` | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fdakshxndrm%2Fresearch-paper-implementation) |
+| **5** | **BHASHA — Historical Voice Assistant** | Multilingual AI | Language-aware voice assistant supporting Hindi, English, Hinglish, and regional interaction grounded in a historical knowledge base | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fdakshxndrm%2Flanguage-agonistic-chatbot-RAG) |
+| **6** | **FuelSplit (`FUEL_SPLIT`)** | Full-Stack Engineering | Shared trip fuel consumption calculator and multi-passenger expense-splitting application | [Repository](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fdakshxndrm%2FFUEL_SPLIT) |
 ---
 
 ## Tech Stack
